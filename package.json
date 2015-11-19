@@ -1,0 +1,22 @@
+{
+  "name": "redux-tutorial",
+  "version": "0.0.1",
+  "description": "a todo app you'd never want to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodneystrong/todo-immutable-react-redux.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "aleeex kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodneystrong/todo-immutable-react-redux/issues"
+  },
+  "homepage": "https://github.com/rodneystrong/todo-immutable-react-redux#readme"
+}
